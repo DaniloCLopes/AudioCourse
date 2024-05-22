@@ -249,7 +249,7 @@ Pre-loader Style
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #7a6ad8;
+  background: #ececec;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
@@ -272,7 +272,7 @@ Pre-loader Style
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #7a6ad8;
+  background: #ffffff;
   border-radius: 50%;
 }
 
@@ -285,7 +285,7 @@ Header Style
 */
 
 .background-header {
-  background-color: #7a6ad8 !important;
+  background-color: #1e1e1e !important;
   border-radius: 0px 0px 25px 25px;
   height: 80px!important;
   position: fixed!important;
@@ -667,7 +667,8 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url(../images/banner-bg.jpg);
+  /* background-image: url(../images/banner-bg.jpg); */
+  background-color: #1e1e1e;
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -696,8 +697,8 @@ Banner Style
 }
 
 .main-banner .item span.category {
-  background-color: #7a6ad8;
-  color: #fff;
+  background-color: #ffffff;
+  color: #1e1e1e;
   font-size: 14px;
   text-transform: uppercase;
   padding: 5px 15px;
@@ -731,7 +732,7 @@ Banner Style
 
 .main-banner .item .buttons .main-button a {
   font-size: 14px;
-  color: #7a6ad8;
+  color: #1e1e1e;
   background-color: #fff;
   display: inline-block;
   height: 50px;
@@ -742,7 +743,7 @@ Banner Style
 }
 
 .main-banner .item .buttons .icon-button i {
-  color: #7a6ad8;
+  color: #1e1e1e;
   background-color: #fff;
   display: inline-block;
   height: 50px;
