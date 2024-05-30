@@ -152,7 +152,7 @@ body {
 }
 
 .section-heading h6 {
-  color: #7a6ad8;
+  color: #1e1e1e;
   font-size: 14px;
   text-transform: uppercase;
   font-weight: 600;
@@ -1788,7 +1788,7 @@ body {
     margin-top: 30px;
   }
   .about-us .main-button a {
-    background-color: #7a6ad8;
+    background-color: #1e1e1e;
     color: #fff;
   }
   .courses {
